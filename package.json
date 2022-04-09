@@ -1,0 +1,12 @@
+{
+  "name": "passgen",
+  "version": "0.1.0",
+  "description": "Generates passwords",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Christian Shinkle",
+  "license": "ISC"
+}
