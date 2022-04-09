@@ -2,9 +2,10 @@
   "name": "passgen",
   "version": "0.1.0",
   "description": "Generates passwords",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node --es-module-specifier-resolution=node index.js",
     "test": "jest"
   },
   "author": "Christian Shinkle",

@@ -1,1 +1,3 @@
-console.log('Hello, World!');
+import { generate } from './src/passgen';
+
+console.log(generate());
