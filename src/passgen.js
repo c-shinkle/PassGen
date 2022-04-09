@@ -197,7 +197,7 @@ const all_letters = [
   "~",
 ];
 
-export const generate = function() {
+export const generate = function () {
   const password = [];
 
   password.push(sample(upper));

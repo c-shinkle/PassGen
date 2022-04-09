@@ -1,3 +1,3 @@
-import { generate } from './src/passgen';
+import { generate } from "./src/passgen";
 
 console.log(generate());
